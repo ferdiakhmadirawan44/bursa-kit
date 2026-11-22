@@ -1,0 +1,91 @@
+BURSA
+
+The exchange, on the record.
+
+▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪
+
+▲ BUY
+
+BTC/USDT · 22 November 2026 · 07:12 UTC
+
+Trade 01 of 12
+
+BTC/USDT · BUY
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1 / 12
+
+YOUR ORDER FILLED
+
+Hi, {{first_name}} — your buy order on BURSA filled in full. BUY 0.01000000 BTC @ $59,006.00.
+
+Fill price
+
+$59,006.00
+
+Notional
+
+$590.06
+
+Quantity 0.01000000 BTC · taker · Fee rate 0.10% · Order T01 · Session BURSA-2026-1122
+
+FEE
+
+Fee · taker 0.10%
+
+$0.59
+
+on $590.06 notional
+
+Fee schedule: Standard spot maker/taker schedule — maker 0.08%, taker 0.10%. The fee is computed from the notional — $590.06 × 0.10% — and rounded half up to the cent.
+
+BALANCE AFTER THIS FILL
+
+$9,409.35 USDT
+
+This is trade 1 of 12 in the session. Session volume so far: $590.06 across 3 pairs.
+
+View your dashboard (https://example.com/bursa/dashboard)
+
+One session file, one exchange
+
+BURSA · BURSA-2026-1122 · 22 November 2026 · 12 trades · 6 buys · 6 sells
+
+Volume $7,129.36 · Fees $6.54 · Realised P&L +$14.94 · Best fill T11 (+$5.50)
+
+One session file, one exchange — this trade count, volume and fee total are identical on the 12 fill emails, the dashboard page, the statement PDF and the 2 cards.
+
+▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪
+
+Dashboard (https://example.com/bursa/dashboard) · Statement (https://example.com/bursa/statement) · Unsubscribe (https://example.com/unsubscribe)
+
+Sent from fills@bursa.example — one sender address for all twelve fill emails in this kit.
+
+---
+
+BURSA is a fictional template brand — not a real exchange. The session, trader and account are template sample data. The prices are real (pancake.xyz — BTC $59,006, ETH $1,661, CAKE $1.46, observed 22 Nov 2026); the fee schedule is the standard spot schedule (Standard spot maker/taker schedule — maker 0.08%, taker 0.10%).
+
+BURSA · Trade 01 of 12 · BURSA-2026-1122 · +$14.94 session P&L

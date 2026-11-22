@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "@hyper-elements/react": "^0.4.6",
+    "@react-pdf/renderer": "^4.9.0",
+    "@resvg/resvg-js": "^2.6.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "satori": "^0.33.5"
+  },
+  "description": "BURSA — Exchange Trade Kit: one trading session file → 12 fill-confirmation emails, a trading dashboard page, a 3-page statement PDF, a trade recap card and a market snapshot card. Entry for the Unlayer Hyper Elements Template Challenge.",
+  "devDependencies": {
+    "@hyper-elements/cli": "^0.2.10",
+    "@hyper-elements/email-clients": "^0.4.16",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "license": "MIT",
+  "name": "bursa-exchange-trade-kit",
+  "private": true,
+  "scripts": {
+    "check": "hyper-elements check src",
+    "gate": "tsx scripts/gate.tsx",
+    "render": "hyper-elements render src --out out",
+    "test": "tsx --test tests/money.test.ts",
+    "typecheck": "tsc --noEmit",
+    "preview": "hyper-elements preview src/FillEmailT01.tsx src/FillEmailT02.tsx src/FillEmailT03.tsx src/FillEmailT04.tsx src/FillEmailT05.tsx src/FillEmailT06.tsx src/FillEmailT07.tsx src/FillEmailT08.tsx src/FillEmailT09.tsx src/FillEmailT10.tsx src/FillEmailT11.tsx src/FillEmailT12.tsx --clients outlook,outlook-com,gmail,gmail-app,apple-mail,yahoo,aol --out out"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
